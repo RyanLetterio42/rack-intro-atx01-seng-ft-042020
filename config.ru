@@ -1,3 +1,6 @@
 require_relative "./application.rb"
 
-run Application.new
+
+
+
+run MyServer.new
